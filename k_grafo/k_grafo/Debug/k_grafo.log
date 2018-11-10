@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+c:\users\ps\source\repos\k_grafo\k_grafo\origem.cpp(96): warning C4477: 'scanf_s': a cadeia de formato '%p' requer um argumento do tipo 'void **', mas um argumento variadic 1 tem o tipo 'char *'
+c:\users\ps\source\repos\k_grafo\k_grafo\origem.cpp(142): warning C4101: 'd': variável local não referenciada
+c:\users\ps\source\repos\k_grafo\k_grafo\origem.cpp(142): warning C4101: 'o': variável local não referenciada
+  k_grafo.vcxproj -> C:\Users\PS\source\repos\k_grafo\Debug\k_grafo.exe
